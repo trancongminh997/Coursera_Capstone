@@ -1,0 +1,4 @@
+Shuffle error with too many fetch failure 
+      https://datameer.zendesk.com/hc/en-us/articles/115000709503-Shuffle-Failures
+Maven fail to downlaod dependency
+      initial gues: due to proxy connection
